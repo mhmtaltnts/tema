@@ -1,0 +1,62 @@
+.course-container div.sensei-message.info, .course-container p.sensei-message.info, .course div.sensei-message.info, .course p.sensei-message.info, .learner-info div.sensei-message.info, .learner-info p.sensei-message.info, .lesson div.sensei-message.info, .lesson p.sensei-message.info, .quiz div.sensei-message.info, .quiz p.sensei-message.info, .sensei div.sensei-message.info, .sensei p.sensei-message.info {
+    background: #5dccbd;
+}
+
+
+.sensei-course-progress__bar div {
+    height: 100%;
+    border-radius: 10px;
+    background-color: #00b40f;
+}
+
+div#customer_login.col2-set {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+div#customer_login.col2-set > div {
+    margin: 10px;
+    padding: 20px;
+}
+
+
+button, [type="button"], [type="reset"], [type="submit"] {
+    border: none;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 8px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-appearance: button;
+    background-color: red;
+    color:white;
+}
+
+.page-numbers {
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 0 2px 0 0;
+    border: 1px solid #eee;
+    line-height: 1;
+    text-decoration: none;
+    border-radius: 2px;
+    font-weight: 600;
+     }
+ .page-numbers.current,
+ a.page-numbers:hover {
+    background: #f9f9f9;
+    }
+    
+

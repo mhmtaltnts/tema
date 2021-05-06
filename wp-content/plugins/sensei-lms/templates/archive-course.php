@@ -27,6 +27,7 @@
 			 * @hooked Sensei_Templates::deprecated_archive_hook 80
 			 */
 			do_action( 'sensei_archive_before_course_loop' );
+			
 
 		?>
 	</div>
